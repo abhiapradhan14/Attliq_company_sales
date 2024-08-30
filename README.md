@@ -1,1 +1,2 @@
 Created interactve dashboard to track and analyze company's sales data. For ths project, used MySql database as a data source. Used complex parameters to drill down in worksheet and customzation using filters and slicers. Created connections, joined new tables, calculations to manipulate data and enabled user driven parameteres for visualizations. Used different type of charts for better visualization
+<img width="542" alt="Attliq sales" src="https://github.com/user-attachments/assets/bcdaa71e-4dbc-43fc-b6ee-032a160b9c81">
